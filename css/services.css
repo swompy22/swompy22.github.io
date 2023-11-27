@@ -1,0 +1,33 @@
+.center_text {
+    text-align: center;
+    margin: 50px auto;
+    width: 70%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.center_text h5 {
+    margin-bottom: 20px;
+}
+
+.center_text ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.center_text li {
+    margin-top: 20px;
+}
+
+.center_text li a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.center_text li a:hover {
+    color: #0056b3;
+}
